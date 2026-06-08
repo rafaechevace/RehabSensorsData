@@ -1,0 +1,14 @@
+﻿time_s,event_type,round,score,hits,misses,combo,best_combo,expected_color,placed_color,details
+1.9935,RoundStart,3,4025,20,6,4,7,,,round=3 countdown=20s
+5.9324,Hit,3,4325,21,6,5,7,Red,Red,
+8.0689,Hit,3,4675,22,6,6,7,Blue,Blue,
+8.6520,Hit,3,5075,23,6,7,7,Red,Red,
+11.9014,Hit,3,5525,24,6,8,8,Blue,Blue,
+12.5414,Hit,3,6025,25,6,9,9,Red,Red,
+15.7903,Hit,3,6575,26,6,10,10,Blue,Blue,
+19.6789,Hit,3,7175,27,6,11,11,Blue,Blue,
+20.3186,Hit,3,7825,28,6,12,12,Red,Red,
+23.8749,Hit,3,8525,29,6,13,13,Red,Red,
+24.4578,WrongColor,3,8500,29,7,0,13,Blue,Red,
+29.6096,Hit,3,8600,30,7,1,13,Blue,Blue,
+30.2547,RoundComplete,3,8600,30,7,1,13,,,round=3 score=8600 hits=30 misses=7

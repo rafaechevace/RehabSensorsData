@@ -1,0 +1,7 @@
+﻿start_time_s,end_time_s,duration_s,tracker_id,start_x,start_y,start_z,end_x,end_y,end_z,path_length_m,avg_speed_mps,max_speed_mps,release_type,final_contact_level
+6.0251,6.0252,0.0001,CubeBlue,-0.1325,0.6817,0.6955,-0.7570,0.6796,2.8598,0.0000,0.0000,0.0000,placement,Resting
+6.1362,6.1364,0.0002,CubeBlue,-0.1320,0.7082,0.6998,-0.0286,0.6796,0.6811,0.0000,0.4901,0.4901,drop,Resting
+14.6911,14.6913,0.0003,CubeBlue,-0.1913,0.6796,0.6514,-0.0881,0.6607,0.7322,0.0000,0.0000,0.0000,placement,Resting
+19.7752,19.7754,0.0002,CubeBlue,0.0318,0.6894,0.8442,-0.0881,0.6607,0.7322,0.0000,0.0000,0.0000,placement,Resting
+19.8307,19.8308,0.0001,CubeBlue,0.0319,0.6900,0.8438,-0.0881,0.6607,0.7322,0.0000,0.0276,0.0276,placement,Resting
+268.8940,268.9152,0.0211,CubeRed,-0.0881,0.6607,0.7322,0.0470,0.6893,0.8664,0.0000,0.0000,0.0000,placement,Resting

@@ -1,0 +1,15 @@
+﻿time_s,tracker_id,path,raw_offset_deg,abs_error_deg,sym_error_deg,calib_type
+1.2694,CubeBlue,continuous_keypoint_yaw,-15.49,15.49,15.49,instant
+3.8004,CubeBlue,continuous_keypoint_yaw,-17.93,17.93,17.93,instant
+8.2747,CubeRed,continuous_keypoint_yaw,9.93,9.93,9.93,smooth
+8.6608,CubeBlue,continuous_keypoint_yaw,3.44,3.44,3.44,smooth
+11.2062,CubeBlue,continuous_keypoint_yaw,4.32,4.32,4.32,smooth
+11.5945,CubeRed,post_release_keypoint_yaw,25.86,25.86,25.86,instant
+14.7175,CubeBlue,continuous_keypoint_yaw,9.38,9.38,9.38,smooth
+15.3006,CubeBlue,post_release_keypoint_yaw,6.90,6.90,6.90,smooth
+17.8274,CubeBlue,continuous_keypoint_yaw,6.49,6.49,6.49,smooth
+22.7062,CubeRed,post_release_keypoint_yaw,18.50,18.50,18.50,instant
+22.8978,CubeBlue,continuous_keypoint_yaw,8.91,8.91,8.91,smooth
+28.9265,CubeBlue,continuous_keypoint_yaw,-1.44,1.44,1.44,smooth
+32.4291,CubeBlue,continuous_keypoint_yaw,0.61,0.61,0.61,smooth
+32.6217,CubeRed,continuous_keypoint_yaw,40.67,40.67,40.67,instant

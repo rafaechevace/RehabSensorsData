@@ -1,0 +1,4 @@
+﻿time_s,tracker_id,path,raw_offset_deg,abs_error_deg,sym_error_deg,calib_type
+16.6342,CubeBlue,continuous_keypoint_yaw,93.12,93.12,3.12,instant
+19.1619,CubeBlue,continuous_keypoint_yaw,97.52,97.52,7.52,instant
+22.0753,CubeBlue,continuous_keypoint_yaw,96.03,96.03,6.03,instant

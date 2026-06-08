@@ -1,0 +1,1 @@
+Al hacer la pinza que les enseñan se produce un giro que el cubo toma sobre el eje en el que se agarro y no sobre si mismo por lo cual se aleja de la posicion en la que deberia de estar como si estuviese colgando como un pendulo.

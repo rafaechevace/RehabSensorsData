@@ -1,0 +1,8 @@
+﻿time_s,tracker_id,path,raw_offset_deg,abs_error_deg,sym_error_deg,calib_type
+1.4659,CubeBlue,continuous_keypoint_yaw,74.66,74.66,15.34,instant
+2.2480,CubeRed,continuous_keypoint_yaw,-6.60,6.60,6.60,smooth
+3.9937,CubeRed,post_release_keypoint_yaw,10.49,10.49,10.49,smooth
+6.9283,CubeRed,post_release_keypoint_yaw,14.78,14.78,14.78,smooth
+12.7721,CubeRed,post_release_keypoint_yaw,7.09,7.09,7.09,smooth
+16.8543,CubeBlue,post_release_keypoint_yaw,65.01,65.01,24.99,instant
+18.8038,CubeBlue,post_release_keypoint_yaw,86.35,86.35,3.65,instant
