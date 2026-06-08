@@ -1,0 +1,3 @@
+Al hacer la pinza el cubo gira desde el punto de agarre haciendo efecto pendulo y no sobre si mismo, se descordinan el virtual y el físico fallo crítico que rompe la inmersión -> Debido a actualización reciente que mejoraba la posición en movimiento sin fsr. 
+La altura de los cubos debido a la profundidad de la mesa es robusta con un eso personalizado pero con la sucesión de distintos usuarios a distintas alturas acumula un ligero error, se puede bajar o subir desde el propio juego en el panel de ajustes.
+Pinza arreglada y giro sobre si mismo tambien.
