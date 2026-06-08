@@ -1,0 +1,16 @@
+﻿time_s,event_type,round,score,hits,misses,combo,best_combo,expected_color,placed_color,details
+2.0488,RoundStart,3,4875,20,3,5,8,,,round=3 countdown=20s
+8.6536,WrongColor,3,4850,20,4,0,8,Red,Blue,
+22.1049,Timeout,3,4825,20,5,0,8,Red,,limit=20s
+25.7228,Hit,3,4925,21,5,1,8,Red,Red,
+26.3635,WrongColor,3,4900,21,6,0,8,Red,Blue,
+29.7923,Hit,3,5000,22,6,1,8,Red,Red,
+33.8622,Hit,3,5150,23,6,2,8,Red,Red,
+37.2788,Hit,3,5350,24,6,3,8,Red,Red,
+40.1674,Hit,3,5600,25,6,4,8,Red,Red,
+44.3240,Hit,3,5900,26,6,5,8,Blue,Blue,
+47.4034,Hit,3,6250,27,6,6,8,Blue,Blue,
+51.4592,Hit,3,6650,28,6,7,8,Blue,Blue,
+54.9453,Hit,3,7100,29,6,8,8,Blue,Blue,
+55.9038,Hit,3,7600,30,6,9,9,Blue,Blue,
+56.5483,RoundComplete,3,7600,30,6,9,9,,,round=3 score=7600 hits=30 misses=6

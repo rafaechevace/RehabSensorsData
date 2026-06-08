@@ -1,0 +1,3 @@
+﻿start_time_s,end_time_s,duration_s,tracker_id,start_x,start_y,start_z,end_x,end_y,end_z,path_length_m,avg_speed_mps,max_speed_mps,release_type,final_contact_level
+20.9154,20.9158,0.0004,CubeBlue,-0.1469,0.6716,0.2242,-0.3493,0.6716,0.1755,0.0000,0.0000,0.0000,placement,Resting
+20.9737,20.9738,0.0001,CubeBlue,-0.0654,0.7180,0.2940,-0.3493,0.6716,0.1755,0.0000,3.8456,3.8456,placement,Resting

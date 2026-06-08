@@ -1,0 +1,14 @@
+﻿time_s,event_type,round,score,hits,misses,combo,best_combo,expected_color,placed_color,details
+0.0006,GameStart,1,0,0,0,0,0,,,hand=Right rounds=5 targets=10
+3.3069,RoundStart,1,0,0,0,0,0,,,round=1 countdown=20s
+8.1743,Hit,1,100,1,0,1,1,Red,Red,
+11.6330,Hit,1,250,2,0,2,2,Red,Red,
+14.2999,Hit,1,450,3,0,3,3,Blue,Blue,
+14.8830,Hit,1,700,4,0,4,4,Red,Red,
+17.5484,Hit,1,1000,5,0,5,5,Blue,Blue,
+20.8681,Hit,1,1350,6,0,6,6,Blue,Blue,
+24.5617,Hit,1,1750,7,0,7,7,Blue,Blue,
+25.2026,Hit,1,2200,8,0,8,8,Red,Red,
+28.6461,Hit,1,2700,9,0,9,9,Blue,Blue,
+31.7568,Hit,1,3250,10,0,10,10,Red,Red,
+32.4026,RoundComplete,1,3250,10,0,10,10,,,round=1 score=3250 hits=10 misses=0
